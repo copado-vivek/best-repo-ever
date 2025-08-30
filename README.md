@@ -1,6 +1,6 @@
 # best-repo-ever
-# git
-# best
+# git - changes made in the line 1
+# best - changes made in the line 1
 # repo
 # ever
 # test
